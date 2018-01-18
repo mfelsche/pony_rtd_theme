@@ -1,0 +1,11 @@
+include *.txt
+include LICENSE
+recursive-include pony_rtd_theme *.conf
+recursive-include pony_rtd_theme *.css
+recursive-include pony_rtd_theme *.eot
+recursive-include pony_rtd_theme *.html
+recursive-include pony_rtd_theme *.js
+recursive-include pony_rtd_theme *.svg
+recursive-include pony_rtd_theme *.ttf
+recursive-include pony_rtd_theme *.woff
+recursive-include pony_rtd_theme *.woff2

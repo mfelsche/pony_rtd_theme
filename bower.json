@@ -1,0 +1,41 @@
+{
+  "name": "pny-rtd-theme",
+  "version": "0.0.1",
+  "homepage": "https://github.com/mfelsche/pony_rtd_theme",
+  "authors": [
+    "Dave Snider <dave.snider@gmail.com>",
+    "Matthias Wahl <matthiaswahl@m7w3.de>"
+  ],
+  "description": "Pony theme for readthedocs.org based on the Sphinx theme.",
+  "license": "MIT",
+  "main": [
+    "js/theme.js"
+  ],
+  "ignore": [
+    "docs",
+    ".gitignore",
+    ".DS_Store",
+    ".sass-cache*",
+    ".bowerrc",
+    "bower.json",
+    "package.json",
+    "Gruntfile.js",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src"
+  ],
+  "devDependencies": {
+    "wyrm": "~1.0.x"
+  },
+  "dependencies": {
+    "lato-googlefont": "*",
+    "robotoslab-googlefont": "*",
+    "inconsolata-googlefont": "*",
+    "font-awesome": "~4.7"
+  },
+  "resolutions": {
+    "font-awesome": "~4.7"
+  }
+}
