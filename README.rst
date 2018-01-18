@@ -9,17 +9,6 @@
 .. _demo: https://sphinx-rtd-theme.readthedocs.io/en/latest/
 .. _hidden: http://sphinx-doc.org/markup/toctree.html
 
-.. image:: https://img.shields.io/pypi/v/pony_rtd_theme.svg
-   :target: https://pypi.python.org/pypi/pony_rtd_theme
-.. image:: https://travis-ci.org/rtfd/pony_rtd_theme.svg?branch=master
-   :target: https://travis-ci.org/rtfd/pony_rtd_theme
-.. image:: https://img.shields.io/pypi/l/pony_rtd_theme.svg
-   :target: https://pypi.python.org/pypi/pony_rtd_theme/
-   :alt: license
-.. image:: https://readthedocs.org/projects/sphinx-rtd-theme/badge/?version=latest
-  :target: http://sphinx-rtd-theme.readthedocs.io/en/latest/?badge=latest
-  :alt: Documentation Status
-
 ************************
 Read the Docs Pony Theme
 ************************
